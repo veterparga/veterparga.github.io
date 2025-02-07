@@ -58,7 +58,7 @@ education:
   - area: MSci in Physics, Minor in Brain, Behaviour and Cognition
     institution: University College London (Institute of Child Health)
     date_start: 2013-09-01
-    date_end: 2017-06-31
+    date_end: 2017-06-30
     summary: |
       Earned a First Class for my Master's Thesis in Neurodevelopmental Imaging, researching X-chromosome linked neural tract morphology differences in young adults with autism using diffusion-weighted MRI. I believe having the opportunity to be exposed to cutting-edge neuroimaging research planted a seed of curiosity in me to really understand how the brain develops, functions, and how it is reflected in our individual & collective behaviour.
       Extracurricular activities include:
