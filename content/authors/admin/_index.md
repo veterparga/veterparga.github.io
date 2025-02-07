@@ -9,8 +9,8 @@ first_name: Peter
 last_name: Varga
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,8 +23,8 @@ role: Research & Development Lead
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SIDO
+    url: https://sido.gg/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -44,65 +44,44 @@ profiles:
     url: https://orcid.org/0009-0009-8236-3457
 
 interests:
-  - Gaming & Digital Behavior
+  - Gaming & Esports
   - Education Technology
-  - Information Retrieval
+  - DeSci
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Postgraduate Certificate in Education, Physics with Mathematics 
+    institution: University College London (Institute of Education)
+    date_start: 2017-09-01
+    date_end: 2018-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Completed postgraduate teacher training at the world’s top university for education studies, including two semesters of in-school teaching. Conducted pedagogy research on conceptual learning and exploration in physics through energy models. Was awarded Qualified Teacher Status by the UK Teacher Regulation Agency. 
+  - area: MSci in Physics, Minor in Brain, Behaviour and Cognition
+    institution: University College London (Institute of Child Health)
+    date_start: 2013-09-01
+    date_end: 2017-06-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Earned a First Class for my Master's Thesis in Neurodevelopmental Imaging, researching X-chromosome linked neural tract morphology differences in young adults with autism using diffusion-weighted MRI. I believe having the opportunity to be exposed to cutting-edge neuroimaging research planted a seed of curiosity in me to really understand how the brain develops, functions, and how it is reflected in our individual & collective behaviour.
+      Extracurricular activities include:
+      - Student research scholarship (summer of 2016) at Great Ormond Street Hospital for Children
+      - Social Secretary (2014-2015) and President (2015-2016) of London University Swimming Team
+      - 4x BUCS participant in swimming
+      - Head of UCAS Student Reps for UCL Mathematical and Physical Sciences
+      - Bar staff/supervisor for UCL Students' Union
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Research & Development Lead
+    company_name: SIDO
+    company_url: https://www.sido.gg/
+    company_logo: media/company_logos/sido.png
+    date_start: 2023-10-01
+    date_end: 2025-02-01
+    summary: 
   - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    company_name: Fnatic
+    company_url: https://fnatic.com/
+    company_logo: media/company_logos/fnatic.jpeg
+    date_start: 2021-06-01
+    date_end: 2023-09-01
+    summary: 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -138,46 +117,7 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+hi
