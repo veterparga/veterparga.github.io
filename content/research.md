@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Research'
+date: 2025-02-01
 type: landing
 
 design:
@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Research Projects
+      text: Here is a selection my research activities during my time in gaming & esports.
       filters:
         folders:
           - research
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
 ---

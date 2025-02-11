@@ -62,15 +62,15 @@ sections:
             </a>
           </div>
           
-          This is me, Peter here — thanks for stopping by! Feel free to explore my site to learn more about my professional journey, or download my resume if you're looking for a quick summary. I'm always happy to connect and would love to hear from you - please don't hesitate to reach out to me on my socials!
+          Welcome to my humble website. Feel free to browse around to learn more about my professional journey, or download my resume if you're looking for a quick summary. I'm always happy to connect and would love to hear from you - please don't hesitate to reach out to me on my socials!
 
-          Let me start by saying that learning brings me immense joy, and I find great delight in being useful to my community. I’m fortunate that the companies I’ve worked at have nurtured these strengths — allowing me to explore new tools and technologies to build impactful solutions for a variety of teams. It’s been a rewarding cycle: solving real problems for people, making a difference in the company, and growing into roles with greater ownership. You can read more about my experiences [here]({{< relref "/experience" >}}).
+          Through my career I found great delight in being curious, adaptive, and useful to my community. I’m fortunate that the companies I’ve worked at have nurtured these strengths — allowing me to explore new tools and technologies to build impactful solutions for a variety of teams. It’s been a rewarding cycle: solving real problems for people, making a difference in the company, and growing into roles with greater ownership. You can read more about my experiences [here]({{< relref "/experience" >}}).
 
-          As a kid, I dreamed of becoming a Nobel Prize-winning scientist. While I can’t say how close (or far) I am to that, one thing is certain — my passion for research didn’t fade when I left academia. Contributing to humanity’s collective knowledge feels like a lifelong pursuit for me, driven not by prizes, but by an innate curiosity and passion. If you're interested, you can check out some of my contributions to the science of gaming & esports [here]({{< relref "/research" >}}).
+          As a kid, I dreamed of becoming a Nobel Prize-winning scientist. While I can’t say how close (or far) I am to that, one thing is certain — my passion for research didn’t fade when I left academia. Contributing to humanity’s collective knowledge feels like a lifelong pursuit for me, driven not by prizes now, but by an innate curiosity and passion. If you're interested, you can check out some of my contributions to the science of gaming & esports [here]({{< relref "/research" >}}).
 
-          Looking ahead, I’m diving deeper into the science of human behavior, understanding how we function as individuals and as a collective. This perspective helps me think more critically about where real technological innovation can shape our lives. I’m particularly fascinated by digital play, educational technology, and decentralized science, all while keeping a close eye on the ever-evolving world of AI.
+          Looking ahead, I’m diving deeper into the science of human behavior, understanding how we function both as individuals and as a collective. This perspective helps me think more critically about where real technological innovation can shape our lives. I’m particularly fascinated by digital play, educational technology, and decentralized science, all while keeping a close eye on the ever-evolving world of AI.
 
-          And of course, what’s a personal website without a quote? Here’s one from my hero, [Braum](https://www.leagueoflegends.com/en-gb/champions/braum/):
+         
           
           
 ---
