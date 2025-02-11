@@ -1,0 +1,6 @@
+# Ignore Hugo cache & build artifacts
+resources/
+public/
+.hugo_build.lock
+hugo_stats.json
+go.sum

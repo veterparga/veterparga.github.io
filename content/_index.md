@@ -6,100 +6,71 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+  # - block: resume-biography-3
+  #   content:
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  #     text: ""
+  #     # Show a call-to-action button under your biography? (optional)
+  #     button:
+  #       text: Download CV
+  #       url: uploads/resume.pdf
+  #   design:
+  #     css_class: dark
+  #     background:
+  #       # gradient_start: '#090533'
+  #       # gradient_end: '#000033'
+  #       # gradient_angle: -303
+  #       # text_color_light: true
+
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         filename: background.png
+  #         filters:
+  #           brightness: 0
+  #         size: cover
+  #         position: center
+  #         parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+          # Hello there! 👋
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+          <img src="/assets/media/avatar2.png" alt="profile_pic" style="display: block; margin: 0; padding: 0;">
+          <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+
+            <a href="https://www.linkedin.com/in/veterparga/" style="text-align: center; flex-grow: 0;">
+              <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(1.5);">
+            </a>
+            <a href="https://github.com/veterparga/" style="text-align: center; flex-grow: 0;">
+              <img src="https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white" alt="GitHub" style="transform: scale(1.5);">
+            </a>
+            <a href="https://www.instagram.com/veter_parga/" style="text-align: center; flex-grow: 0;">
+              <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" alt="Instagram" style="transform: scale(1.5);">
+            </a>
+            <a href="https://x.com/veterparga" style="text-align: center; flex-grow: 0;">
+              <img src="https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white" alt="Twitter" style="transform: scale(1.5);">
+            </a>
+          </div>
+          <div style="text-align: center;">
+            <a href="/uploads/resume.pdf" download style="display: inline-block; padding: 8px 15px; background-color: #80669d; color: white; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px;">
+              Download Resume
+            </a>
+          </div>
+          
+          This is me, Peter here — thanks for stopping by! Feel free to explore my site to learn more about my professional journey, or download my resume if you're looking for a quick summary. I'm always happy to connect and would love to hear from you - please don't hesitate to reach out to me on my socials!
+
+          Let me start by saying that learning brings me immense joy, and I find great delight in being useful to my community. I’m fortunate that the companies I’ve worked at have nurtured these strengths — allowing me to explore new tools and technologies to build impactful solutions for a variety of teams. It’s been a rewarding cycle: solving real problems for people, making a difference in the company, and growing into roles with greater ownership. You can read more about my experiences [here]({{< relref "/experience" >}}).
+
+          As a kid, I dreamed of becoming a Nobel Prize-winning scientist. While I can’t say how close (or far) I am to that, one thing is certain — my passion for research didn’t fade when I left academia. Contributing to humanity’s collective knowledge feels like a lifelong pursuit for me, driven not by prizes, but by an innate curiosity and passion. If you're interested, you can check out some of my contributions to the science of gaming & esports [here]({{< relref "/research" >}}).
+
+          Looking ahead, I’m diving deeper into the science of human behavior, understanding how we function as individuals and as a collective. This perspective helps me think more critically about where real technological innovation can shape our lives. I’m particularly fascinated by digital play, educational technology, and decentralized science, all while keeping a close eye on the ever-evolving world of AI.
+
+          And of course, what’s a personal website without a quote? Here’s one from my hero, [Braum](https://www.leagueoflegends.com/en-gb/champions/braum/):
+          
+          
 ---

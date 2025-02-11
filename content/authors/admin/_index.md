@@ -8,10 +8,6 @@ title: Peter Varga
 first_name: Peter
 last_name: Varga
 
-# Status emoji
-# status:
-#   icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -54,7 +50,11 @@ education:
     date_start: 2017-09-01
     date_end: 2018-08-31
     summary: |
-      Completed postgraduate teacher training at the world’s top university for education studies, including two semesters of in-school teaching. Conducted pedagogy research on conceptual learning and exploration in physics through energy models. Was awarded Qualified Teacher Status by the UK Teacher Regulation Agency. 
+      Completed postgraduate teacher training at the world’s top university for education studies, including two semesters of in-school teaching. 
+      
+      Conducted pedagogy research on conceptual learning and exploration in physics through energy models. 
+      
+      Was awarded Qualified Teacher Status by the UK Teacher Regulation Agency. 
   - area: MSci in Physics, Minor in Brain, Behaviour and Cognition
     institution: University College London (Institute of Child Health)
     date_start: 2013-09-01
@@ -70,54 +70,88 @@ education:
 work:
   - position: Research & Development Lead
     company_name: SIDO
-    company_url: https://www.sido.gg/
-    company_logo: media/company_logos/sido.png
     date_start: 2023-10-01
     date_end: 2025-02-01
-    summary: 
-  - position: Backend Software Engineer
+    summary: |
+      asd
+  - position: Senior Engineer (Research & Analytics) 
     company_name: Fnatic
-    company_url: https://fnatic.com/
-    company_logo: media/company_logos/fnatic.jpeg
-    date_start: 2021-06-01
+    date_start: 2022-06-01
     date_end: 2023-09-01
-    summary: 
+    summary: |
+      asd
+  - position: Analytics Engineer
+    company_name: Fnatic
+    date_start: 2021-06-01
+    date_end: 2022-06-01
+    summary: |
+      asd
+  - position: Junior Data Scientist
+    company_name: Mews
+    date_start: 2020-06-01
+    date_end: 2021-06-01
+    summary: |
+      asd
+  - position: Research Analyst
+    company_name: Mews
+    date_start: 2019-09-01
+    date_end: 2020-06-01
+    summary: |
+      Mews is a cloud-based hospitality management platform designed to streamline hotel operations and enhance guest experiences. 
+
+      When I joined as a Research Analyst, the company was just scaling up, at around a 100 employees. 
+  - position: Research & Development Specialist
+    company_name: Wild.AI
+    date_start: 2019-01-01
+    date_end: 2019-06-01
+    summary: |
+      Wild.AI is a platform designed to empower women by providing personalized health and fitness insights tailored to their unique physiological stages.
+
+      The impact of my role 
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Languages
     items:
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+        icon: python
       - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        icon: sql
+      - name: HTML/CSS
+        icon: html
+  - name: Infrastructure
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: GCP
+        icon: gcp
+      - name: AWS
+        icon: aws
+      - name: Docker
+        icon: docker
+      - name: Kubernetes
+        icon: kubernetes
+      - name: ClickHouse
+        icon: clickhouse
+      - name: Databricks
+        icon: databricks
+  - name: Data Tech
+    items:
+      - name: dbt
+        icon: dbt
+      - name: Airflow
+        icon: airflow
+      - name: Dagster
+        icon: dagster
+      - name: Airbyte
+        icon: airbyte
+      - name: dlt
+        icon: dlt
+      - name: Metabase 
+        icon: metabase
+      
+
+
 
 ---
-## About Me
 
-hi
