@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Peter's Personal Site.'
+    description: "Peter's Personal Site."
     twitter: 'veterparga'
   analytics:
     google_analytics: 'G-LDFKS360J6'
