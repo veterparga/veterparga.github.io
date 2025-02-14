@@ -68,7 +68,7 @@ sections:
 
           As a kid, I dreamed of becoming a Nobel Prize-winning scientist. While I can’t say how close (or far) I am to that, one thing is certain — my passion for research didn’t fade when I left academia. Contributing to humanity’s collective knowledge feels like a lifelong pursuit for me, driven not by prizes now, but by an innate curiosity and passion. If you're interested, you can check out some of my contributions to the science of gaming & esports [here]({{< relref "/research" >}}).
 
-          Looking ahead, I’m diving deeper into the science of human behavior, understanding how we function both as individuals and as a collective. This perspective helps me think more critically about where real technological innovation can shape our lives. I’m particularly fascinated by digital play, educational technology, and decentralized science, all while keeping a close eye on the ever-evolving world of AI.
+          Looking ahead, I’m diving deeper into the science of human behavior, understanding how we function both as individuals and as a collective. This perspective helps me think more critically about where real technological innovation can shape our lives. I’m particularly fascinated by gamification & digital play, educational technology, and decentralized science, all while keeping a close eye on the ever-evolving world of AI.
 
          
           

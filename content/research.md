@@ -13,11 +13,19 @@ sections:
     content:
       title: Research Projects
       text: Here is a selection my research activities during my time in gaming & esports.
+      count: 0
+      exclude_featured: false
       filters:
         folders:
           - research
+      archive:
+        enable: false
+        text: See all 
+        link: research/
     design:
       view: article-grid
-      fill_image: true
+      fill_image: false
+      show_cite: false
       columns: 3
+  
 ---
