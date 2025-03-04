@@ -46,12 +46,10 @@ education:
     date_start: 2017-09-01
     date_end: 2018-08-31
     summary: |
-      Completed postgraduate teacher training at the world’s top university for education studies, including two semesters of in-school teaching. 
-      
-      Conducted pedagogy research on conceptual learning and exploration in physics through energy models. 
+      Completed postgraduate teacher training at the world’s top university for education studies, including two semesters of in-school teaching. Conducted pedagogy research on conceptual learning and exploration in physics through energy models. 
       
       Was awarded Qualified Teacher Status by the UK Teacher Regulation Agency. 
-  - area: MSci in Physics, Minor in Brain, Behaviour and Cognition
+  - area: MSci in Physics, Minor in Neuroscience
     institution: University College London (Institute of Child Health)
     date_start: 2013-09-01
     date_end: 2017-06-30
@@ -117,7 +115,7 @@ work:
   - position: Research & Development Specialist
     company_name: Wild.AI
     date_start: 2019-01-01
-    date_end: 2019-06-01
+    date_end: 2019-07-01
     summary: |
       Wild.AI is a platform designed to empower women by providing personalized health and fitness insights tailored to their unique physiological stages.
 
