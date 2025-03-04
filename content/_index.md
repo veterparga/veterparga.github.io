@@ -68,7 +68,7 @@ sections:
 
           As a kid, I dreamed of becoming a Nobel Prize-winning scientist. While I can’t say how close (or far) I am to that, one thing is certain — my passion for research didn’t fade when I left academia. Contributing to humanity’s collective knowledge feels like a lifelong pursuit for me, driven not by prizes now, but by an innate curiosity and passion. If you're interested, you can check out some of my contributions to the science of gaming & esports [here]({{< relref "/research" >}}).
 
-          I feel incredibly lucky that science is one of my main hobbies. I’m constantly pondering and reading about the discoverable mechanisms that operate in the world around us. That’s the great thing about curiosity - it’s like a mental itch we can scratch, and scratching can be super satisfying. Since high school and my time at UCL, I've been fascinated by how brain structures, circuits, and computations shape us as individuals and as a collective. With my industry experience, I also follow the latest in gamification, digital play, educational technology, and decentralized science..
+          I feel incredibly lucky that science is one of my main hobbies. I’m constantly pondering and reading about the discoverable mechanisms that operate in the world around us. That’s the great thing about curiosity - it’s like a mental itch we can scratch, and scratching can be super satisfying. Since high school and my time at UCL, I've been fascinated by how brain structures, circuits, and computations shape us as individuals and as a collective. With my industry experience, I also follow the latest in gamification, digital play, educational technology, and decentralized science.
 
          
           
