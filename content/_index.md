@@ -62,15 +62,18 @@ sections:
             </a>
           </div>
           
-          Welcome to my humble website. Feel free to browse around to learn more about my professional journey, or download my resume if you're looking for a quick summary. I'm always happy to connect and would love to hear from you - please don't hesitate to reach out to me on my socials!
+          Welcome to my humble website. I'm always happy to connect and would love to hear from you - please don't hesitate to reach out to me on my socials!
 
-          Through my career I found great delight in being curious, adaptive, and useful to my community. I’m fortunate that the companies I’ve worked at have nurtured these strengths — allowing me to explore new tools and technologies to build impactful solutions for a variety of teams. It’s been a rewarding cycle: solving real problems for people, making a difference in the company, and growing into roles with greater ownership. You can read more about my experiences [here]({{< relref "/experience" >}}).
+          As a versatile data professional, I find delight in building impactful and efficient tech solutions for all things analytics. I've been working in mostly in the gaming industry with data engineering as a core responsibility, setting up data stacks from scratch, transforming BI operations, and enabling large-scale data science experimentation. You can read more about my experiences [here]({{< relref "/experience" >}}).
 
-          As a kid, I dreamed of becoming a Nobel Prize-winning scientist. While I can’t say how close (or far) I am to that, one thing is certain — my passion for research didn’t fade when I left academia. Contributing to humanity’s collective knowledge feels like a lifelong pursuit for me, driven not by prizes now, but by an innate curiosity and passion. If you're interested, you can check out some of my contributions to the science of gaming & esports [here]({{< relref "/research" >}}).
+          Additionally, advancing humanity’s collective knowledge is a lifelong pursuit for me. In my free time, I enjoy working on various research projects, whether as an author, editor, reviewer or consultant. If you're interested, you can check out some of my contributions to the science of gaming & esports [here]({{< relref "/research" >}}).
 
-          I feel incredibly lucky that science is one of my main hobbies. I’m constantly pondering and reading about the discoverable mechanisms that operate in the world around us. That’s the great thing about curiosity - it’s like a mental itch we can scratch, and scratching can be super satisfying. Since high school and my time at UCL, I've been fascinated by how brain structures, circuits, and computations shape us as individuals and as a collective. With my industry experience, I also follow the latest in gamification, digital play, educational technology, and decentralized science.
+          Complexity science, interdisciplinarity, and the phenomena of digital worlds fascinate me. I often ponder how we can learn about brain circuits and computations through interacting with digital environments, as well as how complex simulations can reveal insights on the mechanics of large systems, whether it's about social behaviour or ecology. 
 
-         
+          As a qualified teacher and a certified strength & conditioning coach, I'm always keen to chat all things education and physical training, but also hit me up if you want to exchange tips on music production and composing! 
+
           
+
+        
           
 ---

@@ -48,7 +48,7 @@ education:
     summary: |
       Completed postgraduate teacher training at the world’s top university for education studies, including two semesters of in-school teaching. Conducted pedagogy research on conceptual learning and exploration in physics through energy models. 
       
-      Was awarded Qualified Teacher Status by the UK Teacher Regulation Agency. 
+      Was awarded Qualified Teacher Status by the UK Teacher Regulation Agency. To this day I keep up with the latest in education technology.
   - area: MSci in Physics, Minor in Neuroscience
     institution: University College London (Institute of Child Health)
     date_start: 2013-09-01
@@ -101,7 +101,7 @@ work:
 
       I also actively participated in our Salesforce PoC and, during implementation, developed automations to integrate market data, user metrics, and model outputs into the Salesforce ecosystem, enhancing efficiency for sales and account management teams.
 
-      Experiencing the impact of both data engineering and frontline analytics made me realize that while data science and experimentation are exciting, I’m more excited about building end-to-end solutions that solve immediate problems.
+      Experiencing the impact of both data engineering and frontline analytics made me realize that while data science and experimentation are exciting, I’m more interested in building comprehensive, end-to-end analytical solutions that solve immediate problems.
   - position: Research Analyst
     company_name: Mews
     date_start: 2019-09-01
@@ -109,7 +109,7 @@ work:
     summary: |
       Mews is a cloud-based hospitality management platform designed to streamline hotel operations and enhance guest experiences. 
 
-      When I joined, the company was scaling up to around 100 employees and still defining its place in the market. To support KPI development and GTM strategy, I built scrapers and API integrations with major hospitality platforms, creating a comprehensive, unified database of hotels, hostels, and apartments worldwide. This dataset became a key resource for discussions on market segmentation, lead generation, and long-term growth projections.
+      When I joined, the company was scaling up to around 100 employees and still defining its place in the market. To support KPI development and GTM strategy, I set up scrapers and API integrations with major hospitality platforms, creating a comprehensive, unified database of hotels, hostels, and apartments worldwide. This dataset became a key resource for discussions on market segmentation, lead generation, and long-term growth projections.
 
       As the COVID-19 pandemic unfolded, I automated global news collection and focused on churn analytics, developing a predictive model to identify customers at risk of leaving due to travel restrictions.
   - position: Research & Development Specialist
